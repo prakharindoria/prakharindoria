@@ -11,5 +11,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=prakharindoria&&show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;"><br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharindoria&hide=tcl&layout=compact&langs_count=5)](https://github.com/prakharindoria/github-readme-stats)
-<br>
+<br><br>
 ![](https://komarev.com/ghpvc/?username=prakharindoria)
