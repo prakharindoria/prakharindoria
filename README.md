@@ -9,4 +9,7 @@
 - ⚡ Fun fact: Even the Black Holes couldn't swallow the NullPointerException.<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=prakharindoria&&show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;"><br>
+<br>
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharindoria&hide=tcl&langs_count=6)](https://github.com/prakharindoria/github-readme-stats)
+<br>
 ![](https://komarev.com/ghpvc/?username=prakharindoria)
