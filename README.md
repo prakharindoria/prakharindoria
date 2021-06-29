@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--**prakharindoria/prakharindoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning Web.
+- 🔭 I’m currently working on React.
+- 🌱 I’m currently learning Docker.
 - 👯 I’m looking to collaborate on Web Dev Project.
 - 🤔 I’m looking for help with Docker Documentation.
 - 💬 Ask me about Java, Tech or History.
