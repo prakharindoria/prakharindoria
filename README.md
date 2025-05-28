@@ -1,10 +1,10 @@
 ### Hi there 👋
 <!--**prakharindoria/prakharindoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-- 🔭 I’m currently working on React.
-- 🌱 I’m currently learning Docker.
+- 🔭 I’m currently working on Spring Boot.
+- 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on Web Dev Project.
-- 🤔 I’m looking for help with Cloud Concepts.
-- 💬 Ask me about Tech, Nature or History.
+- 🤔 I’m looking for help with ML Concepts.
+- 💬 Ask me about Tech, Trekking, Space or History.
 - 📫 How to reach me: <a href="prakharindoria@gmail.com">prakharindoria@gmail.com</a>
 - ⚡ Fun fact: Even the Black Holes can't swallow the NullPointerException.<br><br>
 
