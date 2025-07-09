@@ -1,9 +1,9 @@
 ### Hi there 👋
 <!--**prakharindoria/prakharindoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+I'm <a href="https://prakharindoria.github.io/">Prakhar</a>, a Software Engineer having 5+ years of experience working in various domains like full stack, backend, and analytics.
 - 🔭 I’m currently working on Spring Boot.
 - 🌱 I’m currently learning AI.
 - 👯 I’m looking to collaborate on Web Dev Project.
-- 🤔 I’m looking for help with ML Concepts.
 - 💬 Ask me about Tech, Trekking, Space or History.
 - 📫 How to reach me: <a href="prakharindoria@gmail.com">prakharindoria@gmail.com</a>
 - 🌐 Visit my portfolio website: <a href="https://prakharindoria.github.io/">prakharindoria.github.io</a>
