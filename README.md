@@ -9,8 +9,7 @@ I'm <a href="https://prakharindoria.github.io/">Prakhar</a>, a Software Engineer
 - 🌐 Visit my portfolio website: <a href="https://prakharindoria.github.io/">prakharindoria.github.io</a>
 - ⚡ Fun fact: Even the Black Holes can't swallow the NullPointerException.<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=prakharindoria&&show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;"><br>
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=prakharindoria&&show_icons=true&amp;theme=light&amp;line_height=27" style="max-width:100%;">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharindoria&hide=tcl&layout=compact&langs_count=5)](https://github.com/prakharindoria/github-readme-stats)
 <br><br>
 ![](https://komarev.com/ghpvc/?username=prakharindoria)
